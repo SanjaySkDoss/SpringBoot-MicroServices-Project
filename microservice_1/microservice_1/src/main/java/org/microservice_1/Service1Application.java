@@ -6,6 +6,7 @@ import org.springframework.security.config.annotation.method.configuration.Enabl
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
+
 @SpringBootApplication
 @EnableMethodSecurity
 public class Service1Application {
@@ -15,5 +16,7 @@ public class Service1Application {
 		PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
 		System.out.println(passwordEncoder.encode("moni"));
 	}
+
+
 
 }

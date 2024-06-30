@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/microservice_1/microservice_1/pom.xml" />
         <option value="$PROJECT_DIR$/microservice_2/microservice_2/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice3/pom.xml" />
       </list>
     </option>
   </component>

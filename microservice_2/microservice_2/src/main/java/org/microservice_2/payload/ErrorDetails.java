@@ -1,4 +1,4 @@
-package org.microservice_2.DTOs;
+package org.microservice_2.payload;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
